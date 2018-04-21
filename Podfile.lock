@@ -1,0 +1,16 @@
+PODS:
+  - EstimoteSDK (4.12.2)
+
+DEPENDENCIES:
+  - EstimoteSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - EstimoteSDK
+
+SPEC CHECKSUMS:
+  EstimoteSDK: 8856f0b894a7347f0275740a79bf7cce80f9c681
+
+PODFILE CHECKSUM: 17eb6f968369a941ae548cb3dae36715e6022b4a
+
+COCOAPODS: 1.5.0
